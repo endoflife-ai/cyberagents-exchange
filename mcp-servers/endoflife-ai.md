@@ -1,5 +1,5 @@
 ---
-last_reviewed: 2026-09-16
+last_reviewed: 2026-10-21
 name: "endoflife.ai - Software Lifecycle Intelligence"
 author: "endoflife-ai"
 github_url: "https://github.com/endoflife-ai/endoflife-mcp"
